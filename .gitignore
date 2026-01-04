@@ -1,0 +1,6 @@
+.DS_Store
+ssh_key
+ssh_key.pub
+node_modules
+.env
+
